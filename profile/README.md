@@ -2,6 +2,7 @@
 
 [![](https://img.shields.io/github/license/Luos-io/Luos)](https://github.com/Luos-io/Luos/blob/master/LICENSE)
 [![](https://img.shields.io/github/license/Luos-io/Documentation)](https://github.com/Luos-io/Documentation/blob/master/LICENSE)
+![GitHub Org's stars](https://img.shields.io/github/stars/Luos-io)
 
 ## Welcome to the **Luos project** :tada:
 
