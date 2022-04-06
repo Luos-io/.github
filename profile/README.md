@@ -8,7 +8,7 @@
 
 Luos leads hardware projects and companies to **microservices and CI/CD methodologies** for Edge and Embedded systems, like Tesla, SpaceX or Dyson do. Our product is an open-source embedded orchestrator for designing, testing, and deploying edge applications.
 
-Achieve the **get started**: [docs.luos.io/get-started](https://docs.luos.io/get-started/get-started)<br>
+Achieve the **get started**: [docs.luos.io/get-started](https://docs.luos.io/tutorials/get-started)<br>
 Join the **community**: [discord.gg/luos](https://discord.gg/luos)<br>
 Read the **documentation**: [docs.luos.io](https://docs.luos.io)<br>
 Check the Project **homepage**: [luos.io](https://www.luos.io)<br>
