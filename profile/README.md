@@ -6,7 +6,7 @@
 
 ## Welcome to the **Luos project** :tada:
 
-Luos leads hardware projects and companies to cyber-physical-systems and digital twins, thanks to **microservices and CI/CD methodologies** for Edge and Embedded systems, like Tesla, SpaceX or Dyson do. Our product is an open-source embedded orchestrator for designing, testing, and deploying edge applications.
+Luos leads hardware projects and companies to cyber-physical-systems and digital twins, thanks to **microservices and CI/CD methodologies** for Cloud, Edge and Embedded systems. This project is an open-source embedded orchestrator for designing, testing, and deploying applications absolutely anywhere.
 
 Achieve the **get started**: [luos.io/tutorials/get-started](https://www.luos.io/tutorials/get-started)<br>
 Join the **community**: [discord.gg/luos](https://discord.gg/luos)<br>
